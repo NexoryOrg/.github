@@ -12,7 +12,6 @@ Wir beherrschen **HTML, CSS, JavaScript, PHP, SQL & Python** und entwickeln krea
 - **Backend:** PHP, JS  
 - **Datenbanken:** MySQL
 
----
 
 **Discord Bots**
 - **Frontend:** Python
