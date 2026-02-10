@@ -21,7 +21,7 @@ Wir beherrschen **HTML, CSS, JavaScript, PHP, SQL & Python** und entwickeln krea
 ---
 
 ## 🤝 Mitwirken
-Wir freuen uns über Contributions!  
+Wir freuen uns über Beiträge!  
 Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details.
 
 ---
